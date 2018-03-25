@@ -17,6 +17,7 @@
     "nodemon": "^1.17.2"
   },
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "json-server": "^0.12.1"
   }
 }
